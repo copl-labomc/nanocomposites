@@ -6,7 +6,7 @@ _**For ~10 cm long polystyrene preforms x 13 mm diameter**_ (AP: 12.7 mm for 1/2
 
 ## Specific Safety Measures ##
 - When modifiying the core of the protocol, never leave the polymerization completely unattended until the substance is significantly viscous in case of <a href="https://sciencing.com/runaway-polymerization-7556.html">runaway polymerization</a> requiring to immediately turn off heating.
-- Check for slow bubbles in the bubbler when opening the inert gas valve. Excessive pressure could build up in the manifold in their absence. <!--- TODO : revise once we get the proper pressure regulator for the nitrogen line that should should between 3 and 5 psi --->
+- Check for slow bubbles in the bubbler when opening the inert gas valve. Excessive pressure could build up in the manifold in their absence. <!--- TODO : revise once we get the proper pressure regulator for the nitrogen line that should read between 3 and 5 psi --->
 - Do not forget to open the valve on the gas evacuation pipe before turning on the oven, then and close it at the end of the manipulations.
 - Never open the oven at high temperature to avoid a thermal shock that could break glass.
 
@@ -25,7 +25,7 @@ TODO : check and implement ULaval's rules for unattended experiments, develop se
 - Oven
 - Ultrasonic bath with heating
 - Venturi pump : filtering flask connected to a vacuum ejector on the water tap
-- Light inert gas flow, but it can be hard to adjust directly on the nitrogen line in a fume hood, so a valved bubbler can be employed <!--- TODO : revise once we get the proper pressure regulator for the nitrogen line that should should between 3 and 5 psi --->
+- Light inert gas flow, but it can be hard to adjust directly on the nitrogen line in a fume hood, so a valved bubbler can be employed <!--- TODO : revise once we get the proper pressure regulator for the nitrogen line that should read between 3 and 5 psi --->
 - Syringe needles
 - 13 mm x 100 mm glass test tube with a fitting airtight septum
 - Mineral oil bath with heat-resistant means to hold the tube
@@ -37,12 +37,12 @@ _N.B. The residual liquid with the NSC precipitate is volatile and may cause som
 <!--- <sup>*</sup> TODO : annotate include here the figure in our paper for optical density (?check OD def) + cQD concentration of increasingly orange samples <img src="/assets/original_nanocomposite.gif" alt="Optical density of nanocomposites with varying nanosemiconductor concentration"> N.B. if I put the assets folder high up, the asset link might need some dots --->
 
 ## Dispersion of Nanosemiconductors in the Monomer ## 
-- Add a known volume of purified liquid monomer to the tube of precipitated NSCs.
-- Hold the tube in an ultrasonic bath briefly to improve NSC dispersion.
+- Add a known volume of purified liquid monomer to the centrifuge tube of precipitated NSCs.
+- Agitate with the vortex mixer and/or hold the tube in an ultrasonic bath briefly to improve NSC dispersion.
 - Pour the mixture into the glass test tube.
 - Repeat the previous 3 steps until the NSCs are rinsed out of the centrifuge tube.
-- Complete the purified monomer volume in the test tube to 10 mL. (!or 8 mL if we adjust the protocol)
-- Add 60 mg of initiator Luperox A98 to the tube and agitate with the vortex. (!or adjusted proportional number)
+- Complete pouring of the purified monomer directly in the glass test tube up to the selected volume.
+- Add the initiator Luperox A98 to the tube and agitate with the vortex.
 - Close the test tube with an airtight septum that can be pierced by syringe needles.
 
 ## Degassing & Purging ##
@@ -50,7 +50,7 @@ _N.B. The residual liquid with the NSC precipitate is volatile and may cause som
 - Turn on the heat on the ultrasonic bath and place the tube in it to enhance degassing for a few minutes. Note that the polymerization will already accelerate while heating.
 - Bubble inert gas through the mixture for a few minutes, with the metal needle below the mixture level and adding a second one above the liquid as exhaust. 
 - Repeat at least twice to minimize oxygen in the mixture. <!--- TODO : find out if it's better to finish under vacuum or under nitrogen considering light diffusion on dissolved gasses in fiber, potential glass tube breaking and dissolved gases that could lead to bubbles during fiber drawing, then adjust the last step here if needed. --->
-- Clean the bubbling needle with hexane, and the vacuum one as well if it touched the mixture.
+- Clean the bubbling needle with toluene, and the vacuum one as well if it touched the mixture.
 
 _N.B. This section aims to protect air-sensitive NSCs by displacing oxygen. It can be shortened for preliminary tests when light diffusion (? to check if it's really correlated to oxygen or just any gas like nitogen, then and put explanation at the beginning of sentence) and PL stability of the resulting nanocomposite are not an issue._
 
