@@ -26,7 +26,7 @@ _N.B. Each column can purify up to ~12 mL of styrene._
  - Put the desired amount of monomer in another beaker.
  - With a micropipette, pour some monomer liquid into the column, nearly filling it.
  - To accelerate the flow while making sure sure the monomer level does not go below the top of the particles, place the bulb on the pipette and squeeze it, then remove it while still squeezed.
- - Alternatively, let gravity do the work while you do something alse, but keeping an eye on the particles to avoid drying them out.
+ - Alternatively, let gravity do the work while you do something else, but keeping an eye on the particles to avoid drying them out.
  - Add monomer to the column until it is all purified. 
  
 ## Column Disposal ## 
