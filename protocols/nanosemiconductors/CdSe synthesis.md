@@ -17,7 +17,7 @@ Protocol to synthesize CdSe QDs
 
 7. To flask B (under nitrogen) add:
 
-• 2 ml of Oleyamine.
+• 2 ml of Oleylamine.
 • 2.66 ml of a Selenium solution in Trioctylphosphine (Se-TOP) 1M. This solution is kept under nitrogen atmosphere because it oxidizes quickly when exposed to air. Make sure you close the container and put it back quickly in the glove box when using this product.
 
 8. Put flask B under vacuum, then heat to 40-45° to make sure everything is in solution. Don't go too high on the temperature of this solution. Let flask B degas for 15-20 min, then put it back under nitrogen.
@@ -36,5 +36,6 @@ Protocol to synthesize CdSe QDs
 15. Put your used flask in the base baths. Those are dangerous and corrosive to skin, make sure to use the big black gloves and the pliers to put them in and out. Let them in the bath until the next day then rinse them with water and dry them with acetone.
 
 16. Clean your working surface with hexane and acetone.
+
 
 
