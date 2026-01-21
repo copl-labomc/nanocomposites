@@ -38,9 +38,12 @@ Here we describe a precipitation/redissolution (PR) method.
   - One problem that was noticed is the cQDs can be hard to mix back into the nonsolvent after precipitation even with help from the ultrasonic bath, but once the styrene is added the cQDs mix quite well and none are left on the eppendorf walls.
   - Using less initial cQD liquid can help to reduce the amount of cQDs stuck to the sides.
 6. After removing the last of the liquid in the eppendorf tube, the cQDs are ready to be mixed with the styrene. Proceed to a nanocomposite protocol.
-
+***
 Further reading: [A Closer Look into the Traditional Purification Process of CdSe
 Semiconductor Quantum Dots](https://doi.org/10.1021/acs.langmuir.5b03584)
+- In general, it is well-known that short-chain alcohols can effectively remove X-type ligands from the QD surface, but using methanol (MeOH) during the purification process leads to a strong reduction of the QD PLQY.
+- [...] the choice of nonsolvent during postprocessing can influence the properties of CdSe quantum dots
+- [...] using ethanol during the postprocessing of CdSe QDs will (1) lead to stable colloidal suspensions with extremely low organic content by mass (less than 15%), (2) promote removal of both L- and X-type ligands without stripping the QD surface of cadmium atoms, and (3) show no degradation in the photoluminescence (PL) quantum yield.
 
 
 
