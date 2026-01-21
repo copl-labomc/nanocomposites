@@ -17,3 +17,27 @@ En parallèle, un certain volume de cQDs dans une solution d’hexane est transv
 
 **Resources on Precipitation and Centrifugation**
 --->
+
+Purifying nanocrystals involves separating them from synthesis byproducts, excess ligands, and unreacted precursors, primarily using techniques that exploit differences in polarity, size, or charge, such as precipitation/redissolution, liquid-liquid extraction, chromatography (like SEC), centrifugation (including ultracentrifugation), filtration, dialysis, and electrophoretic methods. [Google AI]
+
+## General procedure ##
+1. Pipette the desired volume of cQD solution from original container into an eppendorf tube.
+  - 100 uL is a good starting point. Decrease volume if lower concentration is desired and vice versa.
+2. Fill the eppendorf tube with 1:1 ethanol-methanol mixture.
+  - 1:1 ethanol-methanol mixture was determined to be the sweet spot of solvent polarity to properly rince the cQDs, but other solvents can be used depending on the case.
+  - Too high a solvent polarity makes it difficult for the cQDs to dissolve into the liquid.
+  - Too low a solvent polarity makes it difficult to precipitate the cQDs and extract the solvent.
+3. Place the eppendorf containing the cQD + solvent mix in the centrifuge.
+  - Make sure to place a second eppendorf filled with water or the same solvent across from it to allow for a more stable centrifugation.
+  - Set the centrifuge at 10 000 rpm for 5 minutes. These settings can be varied if needed.
+4. Carefully remove the liquid in the eppendorf using a pipette making sure not to touch the sides where the cQDs have precipitated.
+5. Repeat steps 2 through 4 twice more.
+6. After removing the last of the liquid in the eppendorf tube, the cQDs are ready to be mixed with the styrene.
+
+
+
+
+
+
+
+ 
