@@ -27,11 +27,13 @@ Purifying nanocrystals involves separating them from synthesis byproducts, exces
   - 1:1 ethanol-methanol mixture was determined to be the sweet spot of solvent polarity to properly rince the cQDs, but other solvents can be used depending on the case.
   - Too high a solvent polarity makes it difficult for the cQDs to dissolve into the liquid.
   - Too low a solvent polarity makes it difficult to precipitate the cQDs and extract the solvent.
+  - Use the vortex mixer and ultrasonic bath as needed to help dissolve the cQDs into the solvent.
 3. Place the eppendorf containing the cQD + solvent mix in the centrifuge.
   - Make sure to place a second eppendorf filled with water or the same solvent across from it to allow for a more stable centrifugation.
   - Set the centrifuge at 10 000 rpm for 5 minutes. These settings can be varied if needed.
 4. Carefully remove the liquid in the eppendorf using a pipette making sure not to touch the sides where the cQDs have precipitated.
 5. Repeat steps 2 through 4 twice more.
+  - One problem that was noticed is the cQDs can be hard to dissolve back into the solvent after precipitation even with help from the ultrasonic bath, but once the styrene is added the cQDs dissolve quite well and none are left on the eppendorf walls.
 6. After removing the last of the liquid in the eppendorf tube, the cQDs are ready to be mixed with the styrene.
 
 
